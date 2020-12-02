@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ySchool/static/css/main.249e77c0.chunk.css",
+    "main.js": "/ySchool/static/js/main.e150d563.chunk.js",
+    "main.js.map": "/ySchool/static/js/main.e150d563.chunk.js.map",
+    "runtime-main.js": "/ySchool/static/js/runtime-main.646f9877.js",
+    "runtime-main.js.map": "/ySchool/static/js/runtime-main.646f9877.js.map",
+    "static/js/2.6ae5435a.chunk.js": "/ySchool/static/js/2.6ae5435a.chunk.js",
+    "static/js/2.6ae5435a.chunk.js.map": "/ySchool/static/js/2.6ae5435a.chunk.js.map",
+    "static/js/3.9a54115a.chunk.js": "/ySchool/static/js/3.9a54115a.chunk.js",
+    "static/js/3.9a54115a.chunk.js.map": "/ySchool/static/js/3.9a54115a.chunk.js.map",
+    "index.html": "/ySchool/index.html",
+    "static/css/main.249e77c0.chunk.css.map": "/ySchool/static/css/main.249e77c0.chunk.css.map",
+    "static/js/2.6ae5435a.chunk.js.LICENSE.txt": "/ySchool/static/js/2.6ae5435a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646f9877.js",
+    "static/js/2.6ae5435a.chunk.js",
+    "static/css/main.249e77c0.chunk.css",
+    "static/js/main.e150d563.chunk.js"
+  ]
+}

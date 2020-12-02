@@ -1,0 +1,2 @@
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.wrapper{display:grid;grid-template-columns:repeat(4,1fr)}.container{display:flex;justify-content:space-between}.left{order:1;flex:1 1}.right{order:2;flex:1 1}.list{list-style-type:none}.heading{font-size:2em;font-weight:bolder}.center,.heading{text-align:center}
+/*# sourceMappingURL=main.249e77c0.chunk.css.map */
