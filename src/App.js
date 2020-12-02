@@ -1,18 +1,18 @@
 import React from "react";
-import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
+import { HashRouter, Route, Switch, Link } from "react-router-dom";
 import Employees from "./pages/Employees";
 import "./App.css";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
-        <Route exact path="/">
-          <Redirect to="/employees" />
-        </Route>
         <Route exact path="/employees" component={Employees} />
+        <Route path="*">
+          <Link to="employees">Employees</Link>
+        </Route>
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
